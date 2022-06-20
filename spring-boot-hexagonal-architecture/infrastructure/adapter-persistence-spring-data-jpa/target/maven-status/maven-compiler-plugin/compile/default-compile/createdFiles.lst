@@ -1,0 +1,3 @@
+eteosf\hexagonal\persistence\jpa\repository\ProductRepository.class
+eteosf\hexagonal\persistence\jpa\entity\ProductEntity.class
+eteosf\hexagonal\persistence\jpa\adapter\ProductSpringJpaAdapter.class
